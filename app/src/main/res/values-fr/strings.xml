@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_statistics">Statistiques</string>
+    <string name="add_widget">Ajouter un widget</string>
+    <string name="dailyString">Du quotidien</string>
+    <string name="hour">heure</string>
+    <string name="hours">heures</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="navigation_drawer_close">Fermer la navigation tiroir</string>
+    <string name="navigation_drawer_open">Ouvrez le tiroir de navigation</string>
+    <string name="no_cig_smoked">Vous avez pas de cigarettes fumées aujourd\'hui!</string>
+    <string name="nobrand">Sans marque</string>
+    <string name="settings_cigarettes">Cigarettes</string>
+    <string name="this_month_smoked">Ce mois-ci</string>
+    <string name="time_since">Avec succès réussi à rester %1$s sans fumer une cigarette!</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="undo">annuler</string>
+    <string name="yesterday_smoked">Hier</string>
+    <string name="title_activity_statistics">Statistiques</string>
+    <string-array name="date_range">
+        <item>Les 7 derniers jours</item>
+        <item>Les 30 derniers jours</item>
+    </string-array>
+    <string-array name="history_range">
+        <item>Les 7 derniers jours</item>
+        <item>Les 30 derniers jours</item>
+        <item>Les 90 derniers jours</item>
+        <item>Durée de vie</item>
+    </string-array>
+    <string name="action_overview">Aperçu</string>
+    <string name="default_brand">Marque par défaut</string>
+    <string name="Main">Principale</string>
+    <string name="default_price">Prix par paquet</string>
+    <string name="default_currency">Devise</string>
+    <string name="default_count">Cigarettes en paquet</string>
+    <string name="nav_header_desc">Toutes les cigarettes sont comptées!</string>
+    <string name="force_english">Toujours Anglais</string>
+    <string name="restart_required">Un redémarrage est nécessaire</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="are_you_sure">Êtes-vous sûr?</string>
+    <string name="reset_today">Reset aujourd\'hui</string>
+    <string name="reset_dialog_text">Vous verrez une vidéo rapide et les progrès d\'aujourd\'hui seront réinitialisés.</string>
+    <string name="no_database_conn">La connexion à la base de données n\'est pas encore établie. Veuillez réessayer plus tard.</string>
+    <string name="colored_navigation">Barre de navigation colorée</string>
+    <string name="about">Sur</string>
+    <string name="rate_us">Notez et évaluez</string>
+    <string name="sign_in">Se Connecter</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="success_add_one_cigarette">Ajout d\'une cigarette avec succès</string>
+    <string name="this_month_spent">Ce mois-ci</string>
+    <string name="today_spent">Aujourd\'hui</string>
+    <string name="spendings">Dépenses</string>
+    <string name="smoked">Fumé</string>
+    <string name="try_later">Veuillez réessayer plus tard.</string>
+    <string name="welcome_login">Bienvenue</string>
+    <string name="account_exists">Le compte avec lequel vous essayez de vous connecter existe déjà. Si vous continuez, vos progrès actuels seront perdus.</string>
+    <string name="signout_confirm">Êtes-vous certain de vouloir vous déconnecter?</string>
+    <string name="connect_internet">Veuillez d\'abord vous connecter à Internet.</string>
+    <string name="update_application">Veuillez mettre à jour l\'application</string>
+    <string name="check_currency">S\'il vous plaît vérifier votre monnaie</string>
+    <string name="success_add_multi_cigarettes">Ajout de plusieurs cigarettes</string>
+    <string name="success_add_date_cigarette">Ajout d\'une cigarette à la date sélectionnée</string>
+    <string name="add_one_cig">Ajouter une cigarette</string>
+    <string name="add_multi_cig">Ajouter plusieurs cigarettes</string>
+    <string name="add_date_cig">Ajouter une cigarette à la date</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULER</string>
+    <string name="multiple_cigarettes">Plusieurs cigarettes</string>
+    <string name="delete_cig">Vous allez supprimer la cigarette sélectionnée</string>
+    <string name="history">Histoire</string>
+    <string name="old_design">Utiliser un ancien design</string>
+    <string name="whats_new_text">- Corrections de performances et de bugs</string>
+    <string name="whats_new">Quoi de neuf</string>
+    <string name="delete">Effacer</string>
+    <string name="edit">Modifier</string>
+    <string name="price">Prix:</string>
+    <string name="never_show">Ne montre jamais</string>
+    <string name="Language">La langue</string>
+    <string name="no_entries_period">Pas de cigarettes dans la période sélectionnée</string>
+    <string name="success_delete">Supprimé avec succès</string>
+</resources>

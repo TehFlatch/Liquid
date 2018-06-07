@@ -1,0 +1,285 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Liquid</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_statistics">Statistics</string>
+    <string name="action_overview">Overview</string>
+    <string name="no_cig_smoked">You have no cigarettes smoked today!</string>
+    <string name="time_since">Successfully managed to stay %1$s without smoking a cigarette!</string>
+    <string name="success_add_one_cigarette">Successfully added one cigarette</string>
+    <string name="undo">Undo</string>
+    <string name="nobrand">No Brand</string>
+    <string name="hours">hours</string>
+    <string name="hour">hour</string>
+    <string name="minutes">minutes</string>
+    <string name="minute">minute</string>
+    <string name="zeroZero" translatable="false">00</string>
+    <string name="dailyString">Daily</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3651013540030326/2778720561</string>
+    <string name="banner_ad_unit_statistics_id" translatable="false">ca-app-pub-3651013540030326/4125208164</string>
+    <string name="interstitial_ad_id" translatable="false">ca-app-pub-3651013540030326/3850440943</string>
+    <string name="rewarded_video_ad_id" translatable="false">ca-app-pub-3651013540030326/9960430016</string>
+
+    <string name="settings_cigarettes">Cigarettes</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="yesterday_smoked">Yesterday</string>
+    <string name="today_spent">Today</string>
+    <string name="this_month_smoked">This month</string>
+    <string name="this_month_spent">This month</string>
+    <string-array name="date_range">
+        <item>Last 7 days</item>
+        <item>Last 30 days</item>
+    </string-array>
+
+    <string-array name="history_range">
+        <item>Last 7 days</item>
+        <item>Last 30 days</item>
+        <item>Last 90 days</item>
+        <item>Lifetime</item>
+    </string-array>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="default_brand">Default Brand</string>
+    <string name="Main">Main</string>
+    <string name="default_price">Price per pack</string>
+    <string name="default_currency">Currency</string>
+    <string name="eur" translatable="false">EUR</string>
+    <string name="defaultPrice_one" translatable="false">1.00</string>
+    <string name="default_count">Cigarettes in pack</string>
+    <string name="nav_header_desc">Every smoke counts!</string>
+    <string name="force_english">Force English</string>
+    <string name="restart_required">Restart is required</string>
+    <string name="reset_today">Reset Today</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="reset_dialog_text">You will be shown a quick video and today\'s progress will be reset.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_database_conn">Connection to database not established yet. Please try again later.</string>
+    <string name="colored_navigation">Colored navigation bar</string>
+    <string name="rate_us">Rate and review</string>
+    <string name="about">About</string>
+    <string name="web_client_id_google" translatable="false">google_credentials</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="spendings">Spendings</string>
+    <string name="smoked">Smoked</string>
+    <string name="try_later">Please try again later.</string>
+    <string name="welcome_login">Welcome</string>
+    <string name="account_exists">The account you are trying to sign in with already exists. If you proceed, your current progress will be lost.</string>
+    <string name="signout_confirm">Are you sure you want to sign out?</string>
+    <string name="connect_internet">Please connect to internet first.</string>
+    <string name="update_application">Please update the application</string>
+
+
+    <string-array name="currency_list" translatable="false">
+        <item>AED</item>
+        <item>AFN</item>
+        <item>ALL</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>AOA</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>AWG</item>
+        <item>AZN</item>
+        <item>BAM</item>
+        <item>BBD</item>
+        <item>BDT</item>
+        <item>BGN</item>
+        <item>BHD</item>
+        <item>BIF</item>
+        <item>BMD</item>
+        <item>BND</item>
+        <item>BOB</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>BTC</item>
+        <item>BTN</item>
+        <item>BWP</item>
+        <item>BYN</item>
+        <item>BZD</item>
+        <item>CAD</item>
+        <item>CDF</item>
+        <item>CHF</item>
+        <item>CLF</item>
+        <item>CLP</item>
+        <item>CNH</item>
+        <item>CNY</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>CUC</item>
+        <item>CUP</item>
+        <item>CVE</item>
+        <item>CZK</item>
+        <item>DJF</item>
+        <item>DKK</item>
+        <item>DOP</item>
+        <item>DZD</item>
+        <item>EGP</item>
+        <item>ERN</item>
+        <item>ETB</item>
+        <item>EUR</item>
+        <item>FJD</item>
+        <item>FKP</item>
+        <item>GBP</item>
+        <item>GEL</item>
+        <item>GGP</item>
+        <item>GHS</item>
+        <item>GIP</item>
+        <item>GMD</item>
+        <item>GNF</item>
+        <item>GTQ</item>
+        <item>GYD</item>
+        <item>HKD</item>
+        <item>HNL</item>
+        <item>HRK</item>
+        <item>HTG</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>IMP</item>
+        <item>INR</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ISK</item>
+        <item>JEP</item>
+        <item>JMD</item>
+        <item>JOD</item>
+        <item>JPY</item>
+        <item>KES</item>
+        <item>KGS</item>
+        <item>KHR</item>
+        <item>KMF</item>
+        <item>KPW</item>
+        <item>KRW</item>
+        <item>KWD</item>
+        <item>KYD</item>
+        <item>KZT</item>
+        <item>LAK</item>
+        <item>LBP</item>
+        <item>LKR</item>
+        <item>LRD</item>
+        <item>LSL</item>
+        <item>LYD</item>
+        <item>MAD</item>
+        <item>MDL</item>
+        <item>MGA</item>
+        <item>MKD</item>
+        <item>MMK</item>
+        <item>MNT</item>
+        <item>MOP</item>
+        <item>MRO</item>
+        <item>MUR</item>
+        <item>MVR</item>
+        <item>MWK</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>MZN</item>
+        <item>NAD</item>
+        <item>NGN</item>
+        <item>NIO</item>
+        <item>NOK</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>OMR</item>
+        <item>PAB</item>
+        <item>PEN</item>
+        <item>PGK</item>
+        <item>PHP</item>
+        <item>PKR</item>
+        <item>PLN</item>
+        <item>PYG</item>
+        <item>QAR</item>
+        <item>RON</item>
+        <item>RSD</item>
+        <item>RUB</item>
+        <item>RWF</item>
+        <item>SAR</item>
+        <item>SBD</item>
+        <item>SCR</item>
+        <item>SDG</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>SHP</item>
+        <item>SLL</item>
+        <item>SOS</item>
+        <item>SRD</item>
+        <item>SSP</item>
+        <item>STD</item>
+        <item>SVC</item>
+        <item>SYP</item>
+        <item>SZL</item>
+        <item>THB</item>
+        <item>TJS</item>
+        <item>TMT</item>
+        <item>TND</item>
+        <item>TOP</item>
+        <item>TRY</item>
+        <item>TTD</item>
+        <item>TWD</item>
+        <item>TZS</item>
+        <item>UAH</item>
+        <item>UGX</item>
+        <item>USD</item>
+        <item>UYU</item>
+        <item>UZS</item>
+        <item>VEF</item>
+        <item>VND</item>
+        <item>VUV</item>
+        <item>WST</item>
+        <item>XAF</item>
+        <item>XAG</item>
+        <item>XAU</item>
+        <item>XCD</item>
+        <item>XDR</item>
+        <item>XOF</item>
+        <item>XPD</item>
+        <item>XPF</item>
+        <item>XPT</item>
+        <item>YER</item>
+        <item>ZAR</item>
+        <item>ZMW</item>
+        <item>ZWL</item>
+    </string-array>
+    <string name="check_currency">Please check your currency</string>
+    <string name="success_add_multi_cigarettes">Added multiple cigarettes</string>
+    <string name="success_add_date_cigarette">Added one cigarette on the selected date</string>
+    <string name="add_one_cig">Add one cigarette</string>
+    <string name="add_multi_cig">Add multiple cigarettes</string>
+    <string name="add_date_cig">Add a cigarette on date</string>
+    <string name="ok">OK</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="multiple_cigarettes">Multiple cigarettes</string>
+    <string name="delete_cig">You will delete selected cigarette</string>
+    <string name="history">History</string>
+    <string name="old_design">Use old design</string>
+    <string name="whats_new_text">- Performance and bug fixes</string>
+    <string name="whats_new">What\'s new</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="price">Price:</string>
+    <string name="never_show">Never show</string>
+    <string name="Language">Language</string>
+    <string-array name="language_list" translatable="false">
+        <item>English</item>
+        <item>Deutsch</item>
+        <item>Français</item>
+        <item>Español</item>
+        <item>Русский</item>
+        <item>Македонски</item>
+    </string-array>
+    <string-array name="language_list_values" translatable="false">
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>mk</item>
+    </string-array>
+    <string name="no_entries_period">No cigarettes in selected period</string>
+    <string name="success_delete">Successfully deleted</string>
+</resources>

@@ -1,0 +1,71 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="10"
+        android:inputType="number"
+        android:key="cigDaily"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/dailyString" />
+    <ListPreference
+        android:defaultValue="USD"
+        android:entries="@array/currency_list"
+        android:entryValues="@array/currency_list"
+        android:key="defaultCurrency"
+        android:title="@string/default_currency" />
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="@string/nobrand"
+        android:key="defaultBrand"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/default_brand" />
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="20"
+        android:inputType="number"
+        android:key="defaultCount"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/default_count" />
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="@string/defaultPrice_one"
+        android:inputType="numberDecimal"
+        android:key="defaultPrice"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/default_price" />
+    <!--<CheckBoxPreference-->
+    <!--android:defaultValue="false"-->
+    <!--android:key="force_english"-->
+    <!--android:summary="@string/restart_required"-->
+    <!--android:title="@string/force_english"/>-->
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="colored_navigation"
+        android:summary="@string/restart_required"
+        android:title="@string/colored_navigation" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="old_layout"
+        android:summary="@string/restart_required"
+        android:title="@string/old_design" />
+    <ListPreference
+        android:defaultValue="en"
+        android:entries="@array/language_list"
+        android:entryValues="@array/language_list_values"
+        android:key="app_language"
+        android:title="@string/Language" />
+
+
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+
+</PreferenceScreen>

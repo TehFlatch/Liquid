@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Подесувања</string>
+    <string name="action_statistics">Статистики</string>
+    <string name="add_widget">Додавање на елементот</string>
+    <string name="dailyString">Дневно</string>
+    <string name="hour">час</string>
+    <string name="hours">часа</string>
+    <string name="minute">минута</string>
+    <string name="minutes">минути</string>
+    <string name="navigation_drawer_close">Затворете ја фиоката за навигација</string>
+    <string name="navigation_drawer_open">Отворете ја фиоката за навигација</string>
+    <string name="no_cig_smoked">Немате испушени цигари денес!</string>
+    <string name="nobrand">Нема бренд</string>
+    <string name="settings_cigarettes">Цигари</string>
+    <string name="time_since">Успеавте %1$s без цигара испушена!</string>
+    <string name="title_activity_settings">Подесувања</string>
+    <string name="undo">Избриши</string>
+    <string name="yesterday_smoked">Вчера</string>
+    <string name="title_activity_statistics">Статистики</string>
+    <string-array name="date_range">
+        <item>Последни 7 денови</item>
+        <item>Последни 30 денови</item>
+    </string-array>
+    <string-array name="history_range">
+        <item>Последни 7 денови</item>
+        <item>Последни 30 денови</item>
+        <item>Последни 90 денови</item>
+        <item>Доживотно</item>
+    </string-array>
+    <string name="action_overview">Преглед</string>
+    <string name="default_brand">Стандарден бренд</string>
+    <string name="Main">Главно</string>
+    <string name="default_price">Цена на кутија</string>
+    <string name="default_currency">Валута</string>
+    <string name="default_count">Цигари во една кутија</string>
+    <string name="nav_header_desc">Секоја цигара се брои!</string>
+    <string name="force_english">Секогаш Англиски</string>
+    <string name="restart_required">Потребен е рестарт</string>
+    <string name="reset_dialog_text">Ќе ви биде прикажано кратко видео и денешниот напредок ќе се ресетира.</string>
+    <string name="are_you_sure">Дали сте сигурни?</string>
+    <string name="reset_today">Ресетирај денес</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="no_database_conn">Поврзувањето со базата на податоци сè уште не е воспоставено. Ве молиме обидете се повторно.</string>
+    <string name="colored_navigation">Обоена лента за навигација</string>
+    <string name="about">За апликацијата</string>
+    <string name="rate_us">Оцена и коментар</string>
+    <string name="sign_in">Најави се</string>
+    <string name="sign_out">Одјави се</string>
+    <string name="spendings">Потрошено</string>
+    <string name="success_add_one_cigarette">Успешно додадена една цигара</string>
+    <string name="this_month_smoked">Овој месец</string>
+    <string name="this_month_spent">Овој месец</string>
+    <string name="today_spent">Денес</string>
+    <string name="smoked">Испушено</string>
+    <string name="try_later">Ве молиме обидете се подоцна.</string>
+    <string name="welcome_login">Добредојдовте</string>
+    <string name="account_exists">Сметката со која се обидувате да се најавите веќе постои. Ако продолжите, вашиот тековен напредок ќе биде изгубен.</string>
+    <string name="signout_confirm">Дали сте сигурни дека сакате да се одјавите?</string>
+    <string name="connect_internet">Најпрво поврзете се на интернет.</string>
+    <string name="update_application">Ве молиме ажурирајте ја апликацијата</string>
+    <string name="check_currency">Ве молиме проверете ја вашата валута</string>
+    <string name="success_add_date_cigarette">Додаденоа е една цигара на избраниот датум</string>
+    <string name="success_add_multi_cigarettes">Додадени се повеќе цигари</string>
+    <string name="add_one_cig">Додај една цигара</string>
+    <string name="add_multi_cig">Додај повеќе цигари</string>
+    <string name="add_date_cig">Додај цигара на датум</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ОТКАЖИ</string>
+    <string name="multiple_cigarettes">Повеќе цигари</string>
+    <string name="delete_cig">Ќе ја избришете цигарата</string>
+    <string name="history">Историја</string>
+    <string name="old_design">Користи стар дизајн</string>
+    <string name="whats_new_text">- Поправки на перформанси и грешки</string>
+    <string name="whats_new">Што има ново</string>
+    <string name="delete">Избриши</string>
+    <string name="edit">Промени</string>
+    <string name="price">Цена:</string>
+    <string name="never_show">Никогаш не покажувај</string>
+    <string name="Language">Јазик</string>
+    <string name="no_entries_period">Нема цигари во избраниот период</string>
+    <string name="success_delete">Успешно е избришано</string>
+</resources>

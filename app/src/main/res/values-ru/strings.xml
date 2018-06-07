@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="action_statistics">Статистика</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="dailyString">Ежедневно</string>
+    <string name="hours">часов</string>
+    <string name="minute">минут</string>
+    <string name="minutes">минут</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="no_cig_smoked">У Вас нет сигареты не курил сегодня!</string>
+    <string name="nobrand">Нет бренда</string>
+    <string name="settings_cigarettes">Сигареты</string>
+    <string name="time_since">Успешно удалось остаться %1$S без курения сигарет!</string>
+    <string name="title_activity_settings">настройки</string>
+    <string name="undo">расстегивать</string>
+    <string name="yesterday_smoked">Вчера</string>
+    <string name="title_activity_statistics">Статистика</string>
+    <string-array name="date_range">
+        <item>Последние 7 дней</item>
+        <item>Последние 30 дней</item>
+    </string-array>
+    <string-array name="history_range">
+        <item>Последние 7 дней</item>
+        <item>Последние 30 дней</item>
+        <item>Последние 90 дней</item>
+        <item>Продолжительность жизни</item>
+    </string-array>
+    <string name="hour">час</string>
+    <string name="default_brand">Марка по умолчанию</string>
+    <string name="action_overview">Обзор</string>
+    <string name="Main">Главный</string>
+    <string name="default_price">Стоимость упаковки</string>
+    <string name="default_currency">Валюта</string>
+    <string name="default_count">Сигареты в упаковке</string>
+    <string name="today_spent">Cегодня</string>
+    <string name="nav_header_desc">Каждая сигарета подсчитывается!</string>
+    <string name="force_english">Всегда Английский</string>
+    <string name="restart_required">Требуется перезагрузка</string>
+    <string name="reset_dialog_text">Вам будет показано быстрое видео, и сегодняшний прогресс будет сброшен.</string>
+    <string name="are_you_sure">Ты уверен?</string>
+    <string name="reset_today">Сбросить сегодня</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="no_database_conn">Соединение с базой данных еще не установлено. Пожалуйста, повторите попытку позже.</string>
+    <string name="colored_navigation">Цветная панель навигации</string>
+    <string name="about">Около</string>
+    <string name="rate_us">Оценка и отзыв</string>
+    <string name="sign_in">Войти в систему</string>
+    <string name="sign_out">Выход</string>
+    <string name="success_add_one_cigarette">Успешно добавила одну сигарету</string>
+    <string name="this_month_smoked">Этот месяц</string>
+    <string name="this_month_spent">Этот месяц</string>
+    <string name="spendings">Траты</string>
+    <string name="smoked">Копченый</string>
+    <string name="try_later">Пожалуйста, повторите попытку позже.</string>
+    <string name="welcome_login">Желанный</string>
+    <string name="account_exists">Учетная запись, с которой вы пытаетесь войти, уже существует. Если вы продолжите, ваш текущий прогресс будет потерян.</string>
+    <string name="signout_confirm">Вы уверены, что хотите выйти?</string>
+    <string name="connect_internet">Сначала подключитесь к Интернету.</string>
+    <string name="update_application">Обновите приложение</string>
+    <string name="check_currency">Проверьте валюту</string>
+    <string name="success_add_multi_cigarettes">Добавлено несколько сигарет</string>
+    <string name="success_add_date_cigarette">Добавлена одна сигарета на выбранную дату</string>
+    <string name="add_one_cig">Добавить одну сигарету</string>
+    <string name="add_multi_cig">Добавить несколько сигарет</string>
+    <string name="add_date_cig">Добавить сигарету на свидание</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="multiple_cigarettes">Несколько сигарет</string>
+    <string name="delete_cig">Вы удалите выбранную сигарету</string>
+    <string name="history">История</string>
+    <string name="old_design">Использовать старый дизайн</string>
+    <string name="whats_new_text">- Производительность и исправления ошибок</string>
+    <string name="whats_new">Какие новости</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="price">Цена:</string>
+    <string name="never_show">Никогда не показывать</string>
+    <string name="Language">Язык</string>
+    <string name="no_entries_period">Нет сигарет в выбранный период</string>
+    <string name="success_delete">Успешно удалено</string>
+</resources>

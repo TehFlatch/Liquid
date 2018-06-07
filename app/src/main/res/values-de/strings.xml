@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_statistics">Statistiken</string>
+    <string name="add_widget">Widget hinzufügen</string>
+    <string name="dailyString">Täglich</string>
+    <string name="hour">Stunde</string>
+    <string name="hours">Stunden</string>
+    <string name="minute">Minute</string>
+    <string name="minutes">Minuten</string>
+    <string name="navigation_drawer_close">Schließen Navigationsleiste</string>
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="no_cig_smoked">Sie haben keine Zigaretten heute geraucht!</string>
+    <string name="nobrand">Keine Marke</string>
+    <string name="settings_cigarettes">Zigaretten</string>
+    <string name="this_month_smoked">Diesen Monat</string>
+    <string name="time_since">Erfolgreich verwaltet %1$s bleiben, ohne eine Zigarette rauchen!</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="undo">Rückgängig machen</string>
+    <string name="yesterday_smoked">Gester</string>
+    <string name="title_activity_statistics">Statistiken</string>
+    <string-array name="date_range">
+        <item>Letzten 7 Tage</item>
+        <item>Letzten 30 Tage</item>
+    </string-array>
+    <string-array name="history_range">
+        <item>Letzten 7 Tage</item>
+        <item>Letzten 30 Tage</item>
+        <item>Letzten 90 Tage</item>
+        <item>Lebenszeit</item>
+    </string-array>
+    <string name="action_overview">Überblick</string>
+    <string name="default_brand">Standard-Marke</string>
+    <string name="Main">Main</string>
+    <string name="default_price">Preis pro Packung</string>
+    <string name="default_currency">Währung</string>
+    <string name="default_count">Zigaretten in Packung</string>
+    <string name="nav_header_desc">Jede Zigarette wird gezählt!</string>
+    <string name="force_english">Immer Englisch</string>
+    <string name="restart_required">Neustart ist erforderlich</string>
+    <string name="reset_dialog_text">Ihnen wird ein kurzes Video gezeigt und der heutige Fortschritt wird zurückgesetzt.</string>
+    <string name="are_you_sure">Bist du sicher?</string>
+    <string name="reset_today">Zurücksetzen Heute</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="no_database_conn">Verbindung zur Datenbank noch nicht hergestellt. Bitte versuchen Sie es später noch einmal.</string>
+    <string name="colored_navigation">Farbige Navigationsleiste</string>
+    <string name="about">Über</string>
+    <string name="rate_us">Bewerten und bewerten</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="sign_out">Ausloggen</string>
+    <string name="success_add_one_cigarette">Erfolgreich eine Zigarette hinzugefügt</string>
+    <string name="this_month_spent">Diesen Monat</string>
+    <string name="today_spent">Heute</string>
+    <string name="spendings">Ausgaben</string>
+    <string name="smoked">Geräuchert</string>
+    <string name="try_later">Bitte versuchen Sie es später noch einmal.</string>
+    <string name="welcome_login">Willkommen</string>
+    <string name="account_exists">Das Konto, mit dem Sie sich anmelden möchten, ist bereits vorhanden. Wenn Sie fortfahren, geht Ihr aktueller Fortschritt verloren.</string>
+    <string name="signout_confirm">Möchtest du dich wirklich abmelden?</string>
+    <string name="connect_internet">Bitte verbinden Sie sich zuerst mit dem Internet.</string>
+    <string name="update_application">Bitte aktualisieren Sie die Anwendung</string>
+    <string name="check_currency">Bitte überprüfen Sie Ihre Währung</string>
+    <string name="success_add_date_cigarette">Am ausgewählten Datum wurde eine Zigarette hinzugefügt</string>
+    <string name="success_add_multi_cigarettes">Mehrere Zigaretten hinzugefügt</string>
+    <string name="add_one_cig">Fügen Sie eine Zigarette hinzu</string>
+    <string name="add_multi_cig">Fügen Sie mehrere Zigaretten hinzu</string>
+    <string name="add_date_cig">Fügen Sie eine Zigarette an einem Datum hinzu</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ABBRECHEN</string>
+    <string name="multiple_cigarettes">Mehrere Zigaretten</string>
+    <string name="delete_cig">Sie werden die ausgewählte Zigarette löschen</string>
+    <string name="history">Geschichte</string>
+    <string name="old_design">Verwenden Sie altes Design</string>
+    <string name="whats_new_text">- Leistung und Bugfixes</string>
+    <string name="whats_new">Was gibt\'s Neues</string>
+    <string name="delete">Löschen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="price">Preis:</string>
+    <string name="never_show">Niemals zeigen</string>
+    <string name="Language">Sprache</string>
+    <string name="no_entries_period">Keine Zigaretten in ausgewählten Zeitraum</string>
+    <string name="success_delete">Erfolgreich gelöscht</string>
+</resources>

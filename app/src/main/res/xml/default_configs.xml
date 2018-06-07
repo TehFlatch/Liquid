@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>latestVersion</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>showSpent</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>useNewCigs</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_banners</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_interstitial</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_reward_video</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>new_layout</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>
