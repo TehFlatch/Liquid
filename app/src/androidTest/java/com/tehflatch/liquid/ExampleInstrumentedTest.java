@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

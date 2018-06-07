@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.content.Context;
 import android.content.Intent;
@@ -19,12 +19,12 @@ import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings;
 
 import java.util.Locale;
 
-import static com.tehflatch.aquafy.MainActivity.latestVersion;
-import static com.tehflatch.aquafy.MainActivity.showSpent;
-import static com.tehflatch.aquafy.MainActivity.show_banners;
-import static com.tehflatch.aquafy.MainActivity.show_interstitial;
-import static com.tehflatch.aquafy.MainActivity.show_reward_video;
-import static com.tehflatch.aquafy.MainActivity.useNewCigs;
+import static com.tehflatch.liquid.MainActivity.latestVersion;
+import static com.tehflatch.liquid.MainActivity.showSpent;
+import static com.tehflatch.liquid.MainActivity.show_banners;
+import static com.tehflatch.liquid.MainActivity.show_interstitial;
+import static com.tehflatch.liquid.MainActivity.show_reward_video;
+import static com.tehflatch.liquid.MainActivity.useNewCigs;
 
 public class SplashActivity extends AppCompatActivity {
 

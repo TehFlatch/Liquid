@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

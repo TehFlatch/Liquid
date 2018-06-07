@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.animation.ObjectAnimator;
 import android.annotation.SuppressLint;
@@ -25,27 +25,27 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import static com.tehflatch.aquafy.MainActivity.cigarettes;
-import static com.tehflatch.aquafy.MainActivity.cigsMonth;
-import static com.tehflatch.aquafy.MainActivity.currency;
-import static com.tehflatch.aquafy.MainActivity.currentView;
-import static com.tehflatch.aquafy.MainActivity.interstitialTimestamp;
-import static com.tehflatch.aquafy.MainActivity.mInterstitial;
-import static com.tehflatch.aquafy.MainActivity.monthSmoked;
-import static com.tehflatch.aquafy.MainActivity.monthlySpentString;
-import static com.tehflatch.aquafy.MainActivity.newCigarettes;
-import static com.tehflatch.aquafy.MainActivity.old_layout;
-import static com.tehflatch.aquafy.MainActivity.rewardVideoTriggered;
-import static com.tehflatch.aquafy.MainActivity.settings;
-import static com.tehflatch.aquafy.MainActivity.showSpent;
-import static com.tehflatch.aquafy.MainActivity.show_banners;
-import static com.tehflatch.aquafy.MainActivity.thisMonthStart;
-import static com.tehflatch.aquafy.MainActivity.timeOffset;
-import static com.tehflatch.aquafy.MainActivity.todaySpentString;
-import static com.tehflatch.aquafy.MainActivity.todayStart;
-import static com.tehflatch.aquafy.MainActivity.useNewCigs;
-import static com.tehflatch.aquafy.MainActivity.yesterdaySmoked;
-import static com.tehflatch.aquafy.MainActivity.yesterdayStart;
+import static com.tehflatch.liquid.MainActivity.cigarettes;
+import static com.tehflatch.liquid.MainActivity.cigsMonth;
+import static com.tehflatch.liquid.MainActivity.currency;
+import static com.tehflatch.liquid.MainActivity.currentView;
+import static com.tehflatch.liquid.MainActivity.interstitialTimestamp;
+import static com.tehflatch.liquid.MainActivity.mInterstitial;
+import static com.tehflatch.liquid.MainActivity.monthSmoked;
+import static com.tehflatch.liquid.MainActivity.monthlySpentString;
+import static com.tehflatch.liquid.MainActivity.newCigarettes;
+import static com.tehflatch.liquid.MainActivity.old_layout;
+import static com.tehflatch.liquid.MainActivity.rewardVideoTriggered;
+import static com.tehflatch.liquid.MainActivity.settings;
+import static com.tehflatch.liquid.MainActivity.showSpent;
+import static com.tehflatch.liquid.MainActivity.show_banners;
+import static com.tehflatch.liquid.MainActivity.thisMonthStart;
+import static com.tehflatch.liquid.MainActivity.timeOffset;
+import static com.tehflatch.liquid.MainActivity.todaySpentString;
+import static com.tehflatch.liquid.MainActivity.todayStart;
+import static com.tehflatch.liquid.MainActivity.useNewCigs;
+import static com.tehflatch.liquid.MainActivity.yesterdaySmoked;
+import static com.tehflatch.liquid.MainActivity.yesterdayStart;
 
 //import com.google.firebase.database.DatabaseReference;
 

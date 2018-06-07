@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;

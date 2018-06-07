@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.annotation.SuppressLint;
 import android.app.Fragment;
@@ -32,22 +32,22 @@ import java.util.Date;
 import java.util.Map;
 import java.util.TreeMap;
 
-import static com.tehflatch.aquafy.MainActivity.cigarettes;
-import static com.tehflatch.aquafy.MainActivity.cigsMonth;
-import static com.tehflatch.aquafy.MainActivity.currency;
-import static com.tehflatch.aquafy.MainActivity.currentView;
-import static com.tehflatch.aquafy.MainActivity.monthlySpentString;
-import static com.tehflatch.aquafy.MainActivity.newCigarettes;
-import static com.tehflatch.aquafy.MainActivity.pricePerCig;
-import static com.tehflatch.aquafy.MainActivity.showSpent;
-import static com.tehflatch.aquafy.MainActivity.show_banners;
-import static com.tehflatch.aquafy.MainActivity.timeOffset;
-import static com.tehflatch.aquafy.MainActivity.todaySpentString;
-import static com.tehflatch.aquafy.MainActivity.todayStart;
-import static com.tehflatch.aquafy.MainActivity.useNewCigs;
-import static com.tehflatch.aquafy.Overview.cigCounter;
-import static com.tehflatch.aquafy.Overview.cigMonthly;
-import static com.tehflatch.aquafy.Overview.thisYear;
+import static com.tehflatch.liquid.MainActivity.cigarettes;
+import static com.tehflatch.liquid.MainActivity.cigsMonth;
+import static com.tehflatch.liquid.MainActivity.currency;
+import static com.tehflatch.liquid.MainActivity.currentView;
+import static com.tehflatch.liquid.MainActivity.monthlySpentString;
+import static com.tehflatch.liquid.MainActivity.newCigarettes;
+import static com.tehflatch.liquid.MainActivity.pricePerCig;
+import static com.tehflatch.liquid.MainActivity.showSpent;
+import static com.tehflatch.liquid.MainActivity.show_banners;
+import static com.tehflatch.liquid.MainActivity.timeOffset;
+import static com.tehflatch.liquid.MainActivity.todaySpentString;
+import static com.tehflatch.liquid.MainActivity.todayStart;
+import static com.tehflatch.liquid.MainActivity.useNewCigs;
+import static com.tehflatch.liquid.Overview.cigCounter;
+import static com.tehflatch.liquid.Overview.cigMonthly;
+import static com.tehflatch.liquid.Overview.thisYear;
 
 
 @SuppressWarnings("deprecation")

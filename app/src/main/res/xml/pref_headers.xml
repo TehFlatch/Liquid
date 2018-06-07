@@ -3,7 +3,7 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="com.tehflatch.aquafy.SettingsActivity$GeneralPreferenceFragment"
+        android:fragment="com.tehflatch.liquid.SettingsActivity$GeneralPreferenceFragment"
         android:icon="@drawable/ic_menu_manage"
         android:title="@string/settings_cigarettes" />
 

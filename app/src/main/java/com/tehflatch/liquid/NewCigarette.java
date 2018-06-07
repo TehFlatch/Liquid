@@ -1,11 +1,9 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.content.SharedPreferences;
 import android.support.annotation.NonNull;
-import android.support.design.widget.Snackbar;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -15,17 +13,16 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.Calendar;
 
-import static com.tehflatch.aquafy.MainActivity.appContext;
-import static com.tehflatch.aquafy.MainActivity.brandName;
-import static com.tehflatch.aquafy.MainActivity.currencyRate;
-import static com.tehflatch.aquafy.MainActivity.currentView;
-import static com.tehflatch.aquafy.MainActivity.hoursString;
-import static com.tehflatch.aquafy.MainActivity.minuteString;
-import static com.tehflatch.aquafy.MainActivity.minutesString;
-import static com.tehflatch.aquafy.MainActivity.newCigarettes;
-import static com.tehflatch.aquafy.MainActivity.pricePerCig;
-import static com.tehflatch.aquafy.MainActivity.timeOffset;
-import static com.tehflatch.aquafy.Overview.timeSince;
+import static com.tehflatch.liquid.MainActivity.brandName;
+import static com.tehflatch.liquid.MainActivity.currencyRate;
+import static com.tehflatch.liquid.MainActivity.currentView;
+import static com.tehflatch.liquid.MainActivity.hoursString;
+import static com.tehflatch.liquid.MainActivity.minuteString;
+import static com.tehflatch.liquid.MainActivity.minutesString;
+import static com.tehflatch.liquid.MainActivity.newCigarettes;
+import static com.tehflatch.liquid.MainActivity.pricePerCig;
+import static com.tehflatch.liquid.MainActivity.timeOffset;
+import static com.tehflatch.liquid.Overview.timeSince;
 
 
 public class NewCigarette {

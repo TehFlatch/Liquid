@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.content.res.ColorStateList;
 import android.graphics.Color;

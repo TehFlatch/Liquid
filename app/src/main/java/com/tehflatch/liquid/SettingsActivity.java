@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 
 import android.annotation.TargetApi;
@@ -26,12 +26,12 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Locale;
 
-import static com.tehflatch.aquafy.MainActivity.currencies;
-import static com.tehflatch.aquafy.MainActivity.currency;
-import static com.tehflatch.aquafy.MainActivity.currencyRate;
-import static com.tehflatch.aquafy.MainActivity.currencyTimestamp;
-import static com.tehflatch.aquafy.MainActivity.editor;
-import static com.tehflatch.aquafy.MainActivity.languageSelected;
+import static com.tehflatch.liquid.MainActivity.currencies;
+import static com.tehflatch.liquid.MainActivity.currency;
+import static com.tehflatch.liquid.MainActivity.currencyRate;
+import static com.tehflatch.liquid.MainActivity.currencyTimestamp;
+import static com.tehflatch.liquid.MainActivity.editor;
+import static com.tehflatch.liquid.MainActivity.languageSelected;
 
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On

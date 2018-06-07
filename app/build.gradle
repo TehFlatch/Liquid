@@ -9,8 +9,8 @@ android {
         applicationId "com.tehflatch.liquid"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 167
-        versionName "1.11.4.0"
+        versionCode 10000
+        versionName "0.0.0.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 //        lintOptions {
 ////            checkReleaseBuilds false

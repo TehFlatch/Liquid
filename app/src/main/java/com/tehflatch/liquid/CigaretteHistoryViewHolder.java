@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -7,11 +7,11 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
 
-import static com.tehflatch.aquafy.MainActivity.appContext;
-import static com.tehflatch.aquafy.MainActivity.areYouSureString;
-import static com.tehflatch.aquafy.MainActivity.cigDeleteString;
-import static com.tehflatch.aquafy.MainActivity.noString;
-import static com.tehflatch.aquafy.MainActivity.yesString;
+import static com.tehflatch.liquid.MainActivity.appContext;
+import static com.tehflatch.liquid.MainActivity.areYouSureString;
+import static com.tehflatch.liquid.MainActivity.cigDeleteString;
+import static com.tehflatch.liquid.MainActivity.noString;
+import static com.tehflatch.liquid.MainActivity.yesString;
 
 class CigaretteHistoryViewHolder extends RecyclerView.ViewHolder {
 

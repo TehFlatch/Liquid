@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

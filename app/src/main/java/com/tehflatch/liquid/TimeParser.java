@@ -1,11 +1,11 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import static com.tehflatch.aquafy.MainActivity.calendar;
+import static com.tehflatch.liquid.MainActivity.calendar;
 
 public class TimeParser {
 

@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.animation.ObjectAnimator;
 import android.content.SharedPreferences;
@@ -11,18 +11,18 @@ import com.google.firebase.database.DatabaseReference;
 
 import java.util.Calendar;
 
-import static com.tehflatch.aquafy.MainActivity.brandName;
-import static com.tehflatch.aquafy.MainActivity.editor;
-import static com.tehflatch.aquafy.MainActivity.hoursString;
-import static com.tehflatch.aquafy.MainActivity.mInterstitial;
-import static com.tehflatch.aquafy.MainActivity.minuteString;
-import static com.tehflatch.aquafy.MainActivity.minutesString;
-import static com.tehflatch.aquafy.MainActivity.settings;
-import static com.tehflatch.aquafy.Overview.calendar;
-import static com.tehflatch.aquafy.Overview.cigCounter;
-import static com.tehflatch.aquafy.Overview.cigDaily;
-import static com.tehflatch.aquafy.Overview.percentage;
-import static com.tehflatch.aquafy.Overview.rounded;
+import static com.tehflatch.liquid.MainActivity.brandName;
+import static com.tehflatch.liquid.MainActivity.editor;
+import static com.tehflatch.liquid.MainActivity.hoursString;
+import static com.tehflatch.liquid.MainActivity.mInterstitial;
+import static com.tehflatch.liquid.MainActivity.minuteString;
+import static com.tehflatch.liquid.MainActivity.minutesString;
+import static com.tehflatch.liquid.MainActivity.settings;
+import static com.tehflatch.liquid.Overview.calendar;
+import static com.tehflatch.liquid.Overview.cigCounter;
+import static com.tehflatch.liquid.Overview.cigDaily;
+import static com.tehflatch.liquid.Overview.percentage;
+import static com.tehflatch.liquid.Overview.rounded;
 
 
 public class Cigarette {

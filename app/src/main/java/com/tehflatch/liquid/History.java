@@ -1,4 +1,4 @@
-package com.tehflatch.aquafy;
+package com.tehflatch.liquid;
 
 import android.annotation.SuppressLint;
 import android.app.Fragment;
@@ -20,12 +20,12 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.tehflatch.aquafy.MainActivity.appContext;
-import static com.tehflatch.aquafy.MainActivity.currency;
-import static com.tehflatch.aquafy.MainActivity.currentView;
-import static com.tehflatch.aquafy.MainActivity.newCigarettes;
-import static com.tehflatch.aquafy.MainActivity.timeOffset;
-import static com.tehflatch.aquafy.MainActivity.todayStart;
+import static com.tehflatch.liquid.MainActivity.appContext;
+import static com.tehflatch.liquid.MainActivity.currency;
+import static com.tehflatch.liquid.MainActivity.currentView;
+import static com.tehflatch.liquid.MainActivity.newCigarettes;
+import static com.tehflatch.liquid.MainActivity.timeOffset;
+import static com.tehflatch.liquid.MainActivity.todayStart;
 
 public class History extends Fragment {
     public static CigaretteHistoryRecyclerAdapter recAdapter;
